@@ -16,7 +16,7 @@ Enjoy ! :)
 
 📐  Design  📐
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/todo-list-app/master/assets/designs/todo-list-app.png)
+![Screenshot](https://raw.githubusercontent.com/avilarino/todo-list-app/master/asset/designs/todo-list-app.png)
 
 
 Follow Me  🙌  ☎️
